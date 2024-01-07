@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# << CODE BY HUNX04
+# << CODE BY KrishnaGupta
 # << MAU RECODE ??? IZIN DULU LAH , MINIMAL TAG AKUN GITHUB MIMIN YANG MENGARAH KE AKUN INI, LEBIH ENAKNYA SIH FORK 
 # << KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS DUNIA AKHIRAT SAMPAI 7 TURUNAN
 # “Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
@@ -26,12 +26,13 @@ try:
 #LOGO GW
     stderr.writelines(f"""{Gr} 
 
-        {Gr}██╗███╗   ██╗███████╗████████╗ █████╗        {Re}██████╗ ███████╗██╗███╗   ██╗████████╗
-        {Gr}██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗      {Re}██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝
-        {Gr}██║██╔██╗ ██║███████╗   ██║   ███████║{Wh}█████╗{Re}██║   ██║███████╗██║██╔██╗ ██║   ██║   
-        {Gr}██║██║╚██╗██║╚════██║   ██║   ██╔══██║{Wh}╚════╝{Re}██║   ██║╚════██║██║██║╚██╗██║   ██║   
-        {Gr}██║██║ ╚████║███████║   ██║   ██║  ██║      {Re}╚██████╔╝███████║██║██║ ╚████║   ██║   
-        {Gr}╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝       {Re}╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝   
+        {Gr}█ ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗      ██╗██╗██╗
+██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗     ██║██║██║
+██║  ███╗██║   ██║██████╔╝   ██║   ███████║     ██║██║██║
+██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║██   ██║██║██║
+╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║╚█████╔╝██║██║
+ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝
+                                                         
         {Wh}  <----- {Gr}O S I N T       {Wh}I N S T A G R A M       {Wh}B Y      {Gr}H U N B Y T S {Wh}----->  
         """)
     print(f"\n                              {Wh}[ {Gr}! {Wh}] LOGIN YOUR INSTAGRAM ACCOUNT")
@@ -43,13 +44,14 @@ try:
     def osintig(US,PW):
         stderr.writelines(f"""{Gr} 
 
-        {Gr}██╗███╗   ██╗███████╗████████╗ █████╗        {Re}██████╗ ███████╗██╗███╗   ██╗████████╗
-        {Gr}██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗      {Re}██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝
-        {Gr}██║██╔██╗ ██║███████╗   ██║   ███████║{Wh}█████╗{Re}██║   ██║███████╗██║██╔██╗ ██║   ██║   
-        {Gr}██║██║╚██╗██║╚════██║   ██║   ██╔══██║{Wh}╚════╝{Re}██║   ██║╚════██║██║██║╚██╗██║   ██║   
-        {Gr}██║██║ ╚████║███████║   ██║   ██║  ██║      {Re}╚██████╔╝███████║██║██║ ╚████║   ██║   
-        {Gr}╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝       {Re}╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝   
-        {Wh}  <----- {Gr}O S I N T       {Wh}I N S T A G R A M       {Wh}B Y      {Gr}H U N B Y T S {Wh}----->  
+        {Gr}█ ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗      ██╗██╗██╗
+██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗     ██║██║██║
+██║  ███╗██║   ██║██████╔╝   ██║   ███████║     ██║██║██║
+██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║██   ██║██║██║
+╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║╚█████╔╝██║██║
+ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝
+                                                         
+        {Wh}  <----- {Gr} Krishnagupta     {Wh}I N S T A G R A M       {Wh}B Y      {Gr}Its_Vip_Krishna_Gupta {Wh}----->  
         """)
         IG_INSTA = instaloader.Instaloader()
         IG_INSTA.login(US, PW)
