@@ -4,7 +4,7 @@
 # << KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS DUNIA AKHIRAT SAMPAI 7 TURUNAN
 # “Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
 
-import insta-info.py
+import instaloader
 import time
 from sys import stderr
 import sys
