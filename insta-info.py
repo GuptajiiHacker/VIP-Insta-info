@@ -35,15 +35,7 @@ try:
     os.system('clear')
 
     def osintig(US,PW):
-        stderr.writelines(f"""{Gr} 
-
-█ ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗      ██╗██╗██╗
-██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗     ██║██║██║
-██║  ███╗██║   ██║██████╔╝   ██║   ███████║     ██║██║██║
-██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║██   ██║██║██║
-╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║╚█████╔╝██║██║
- ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝
-                                                         
+        stderr.writelines(f"""{Gr}                                                       
         {Wh}  <----- {Gr} Krishnagupta     {Wh}I N S T A G R A M       {Wh}B Y      {Gr}Its_Vip_Krishna_Gupta {Wh}----->  
         """)
         IG_INSTA = instaloader.Instaloader()
