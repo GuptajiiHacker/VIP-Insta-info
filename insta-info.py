@@ -34,8 +34,8 @@ try:
  ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝
                                                          
         {Wh}  <----- {Gr}KrishnaGupta      {Wh}I N S T A G R A M       {Wh}B Y      {Gr}Its_Vip_Krishna_Gupta {Wh}----->  
-        """)
-    print(f"\n                              {Wh}[ {Gr}! {Wh}] LOGIN YOUR INSTAGRAM ACCOUNT")
+    print(f"\n {Wh}[ {Gr}! {Wh}] LOGIN YOUR INSTAGRAM ACCOUNT")
+    
     US = input(f"\n       [ {Gr}+ {Wh}] INPUT USERNAME INSTAGRAM ACCOUNT : {Re}")
     PW = input(f"       {Wh}[ {Gr}+ {Wh}] INPUT PASSWORD INSTAGRAM ACCOUNT : {Re}")
 
