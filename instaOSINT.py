@@ -35,7 +35,6 @@ try:
         {Wh}  <----- {Gr}O S I N T       {Wh}I N S T A G R A M       {Wh}B Y      {Gr}H U N B Y T S {Wh}----->  
                           {Wh}[ {Gr}! {Wh}] 
                   LOGIN YOUR INSTAGRAM ACCOUNT
-    print(f"
     US = input(f"        [ {Gr}+ {Wh}] INPUT USERNAME INSTAGRAM ACCOUNT : {Re}")
     PW = input(f"       {Wh}[ {Gr}+ {Wh}] INPUT PASSWORD INSTAGRAM ACCOUNT : {Re}")
 
